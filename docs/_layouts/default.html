@@ -4,7 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+  {% if page.hreflang %}
+      <link rel="alternate" hreflang="en" href="{{ '/' | absolute_url }}" />
+      <link rel="alternate" hreflang="de" href="{{ 'de' | absolute_url }}" />
+      <link rel="alternate" hreflang="es" href="{{ 'es' | absolute_url }}" />
+      <link rel="alternate" hreflang="fr" href="{{ 'fr' | absolute_url }}" />
+      <link rel="alternate" hreflang="it" href="{{ 'it' | absolute_url }}" />
+      <link rel="alternate" hreflang="pt" href="{{ 'pt' | absolute_url }}" />
+      <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}" />
+{% endif %}
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
@@ -15,6 +23,7 @@
       {{ content }}
 
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        <p><a href="https://michaeltroger.com">© Michael Troger</a></p>
         <p><a href="https://michaeltroger.com/imprint">Imprint / Impressum / Aviso legal / Mentions légales / Informazioni legali / Informações legais</a></p>
         <p><a href="https://michaeltroger.com/privacy">Privacy Policy / Datenschutzerklärung / Política de Privacidad / Politique de confidentialité / Informativa sulla Privacy / Política de Privacidade</a></p>
       </div>
