@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      JAVA_VERSION: '17'
+      JAVA_VERSION: '21'
       CREDENTIALS_DIR: 'credentials'
       AAB_FILE: 'app/build/outputs/bundle/playRelease/app-play-release.aab'
       APK_FILE: 'app/build/outputs/apk/foss/release/app-foss-release.apk'
