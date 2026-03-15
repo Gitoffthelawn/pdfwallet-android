@@ -49,6 +49,8 @@ dependencies {
     testImplementation(libs.io.mockk)
     testImplementation(libs.org.jetbrains.kotlinx.coroutines.test)
     testImplementation(libs.org.robolectric)
+    testImplementation(libs.com.google.dagger.hilt.androidtesting)
+    kspTest(libs.com.google.dagger.hilt.compiler)
 
     androidTestImplementation(libs.androidx.test.espresso.contrib)
     androidTestImplementation(libs.androidx.test.espresso.core)
