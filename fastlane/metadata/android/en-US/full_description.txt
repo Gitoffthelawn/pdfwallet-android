@@ -1,4 +1,4 @@
-An app that is fully open source. This app is a simple to use PDF Wallet. That means it takes over the task of storing and displaying your most important PDF certificates. It includes a convenient fullscreen barcode rendering, if a barcode is present in the PDF.
+This app is a simple to use PDF Wallet. That means it takes over the task of storing and displaying your most important PDF certificates. It includes a convenient fullscreen barcode rendering, if a barcode is present in the PDF.
 
 Brief Instruction
 - Open "PDF Wallet"
@@ -38,7 +38,7 @@ The "Pro" version additionally brings (requires In-App Purchase):
 - Option to show barcodes in half size
 
 Privacy
-This app values your privacy by being fully open source and working offline. No ads, no tracking.
+This app values your privacy by working fully offline. No ads, no tracking.
 
 Issues
 This is a free-time project of a single developer. Therefore please understand that replies can take a little while.
