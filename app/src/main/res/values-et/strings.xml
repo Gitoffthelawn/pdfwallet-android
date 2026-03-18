@@ -21,8 +21,6 @@
     <string name="help_translating">Aita tõlkida</string>
     <string name="help_translating_summary">Aita seda rakendust tõlkida oma keelde</string>
     <string name="contact_developer">Võta ühendust arendajaga</string>
-    <string name="contributing">Kirjuta koodi</string>
-    <string name="contributing_summary">See rakendus on avatud lähtekoodiga tarkvara. Kirjuta koodi ja osale arenduses!</string>
     <string name="more">Lisateave</string>
     <string name="imprint">Projekti ametlikud andmed</string>
     <string name="privacy_policy">Privaatsuspoliitika</string>

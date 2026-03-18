@@ -1,4 +1,4 @@
-Una aplicación completamente de código abierto. Esta aplicación es una cartera de PDFs fácil de usar. Esto significa que se encarga de almacenar y mostrar tus certificados PDF más importantes. Incluye una cómoda visualización de códigos de barras a pantalla completa, si el PDF contiene uno.
+Esta aplicación es una cartera de PDFs fácil de usar. Esto significa que se encarga de almacenar y mostrar tus certificados PDF más importantes. Incluye una cómoda visualización de códigos de barras a pantalla completa, si el PDF contiene uno.
 
 Instrucciones breves
 - Abre “PDF Wallet”
@@ -38,7 +38,7 @@ La versión “Pro” incluye además (requiere compra dentro de la app):
 - Opción para mostrar códigos de barras en medio tamaño
 
 Privacidad
-Esta aplicación valora tu privacidad siendo completamente de código abierto y funcionando sin conexión. Sin anuncios, sin seguimiento.
+Esta aplicación valora tu privacidad funcionando completamente sin conexión. Sin anuncios, sin seguimiento.
 
 Problemas
 Este es un proyecto realizado en el tiempo libre por un único desarrollador. Por lo tanto, por favor comprende que las respuestas pueden tardar un poco.

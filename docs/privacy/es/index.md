@@ -39,7 +39,3 @@ Para obtener más información sobre cómo Google procesa sus datos de pago, con
 ### Publicidad y seguimiento
 
 La aplicación **no contiene anuncios** ni realiza **seguimiento o análisis**.
-
-### Código abierto
-
-El [código fuente de la aplicación](https://github.com/michaeltroger/pdfwallet-android) es completamente de código abierto, lo que te permite verificar cómo funciona.

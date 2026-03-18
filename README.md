@@ -3,7 +3,7 @@ An Android App - previously known as Green Pass PDF Wallet.
 
 [![Android CI](https://github.com/michaeltroger/pdfwallet-android/actions/workflows/android.yml/badge.svg)](https://github.com/michaeltroger/pdfwallet-android/actions/workflows/android.yml) [![UI tests](https://github.com/michaeltroger/pdfwallet-android/actions/workflows/ui_tests.yml/badge.svg)](https://github.com/michaeltroger/pdfwallet-android/actions/workflows/ui_tests.yml) [![Crowdin](https://badges.crowdin.net/green-pass/localized.svg)](https://crowdin.com/project/green-pass)
 
-An app that is fully open-source. This app is a simple to use PDF Wallet.
+This app is a simple to use PDF Wallet.
 That means it takes over the task of storing and displaying your most important PDF certificates.
 It includes a convenient fullscreen barcode rendering, if a barcode is present in the PDF.
 Currently supported formats are:

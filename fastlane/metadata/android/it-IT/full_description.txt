@@ -1,4 +1,4 @@
-Un’app completamente open source. Questa app è un semplice Portafoglio PDF. Pensato per memorizzare e visualizzare i tuoi certificati PDF più importanti. Include una comoda visualizzazione a schermo intero dei codici a barre, se presenti nel PDF.
+Questa app è un semplice Portafoglio PDF. Pensato per memorizzare e visualizzare i tuoi certificati PDF più importanti. Include una comoda visualizzazione a schermo intero dei codici a barre, se presenti nel PDF.
 
 Breve Istruzione
 - Apri “PDF Wallet”
@@ -38,7 +38,7 @@ La versione “Pro” aggiunge inoltre (richiede acquisto in-app):
 - Opzione per mostrare codici a barre di metà dimensione
 
 Privacy
-Questa app tutela la tua privacy essendo completamente open source e funzionando offline. Nessuna pubblicità, nessun tracciamento.
+Questa app tutela la tua privacy funzionando completamente offline. Nessuna pubblicità, nessun tracciamento.
 
 Problemi
 Questo è un progetto sviluppato nel tempo libero da un singolo sviluppatore. Ti preghiamo quindi di comprendere che le risposte possono richiedere un po’ di tempo.

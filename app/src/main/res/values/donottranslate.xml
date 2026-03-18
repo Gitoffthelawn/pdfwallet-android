@@ -6,7 +6,6 @@
     <string name="imprint_uri">https://michaeltroger.com/imprint/</string>
     <string name="rate_uri">https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass</string>
     <string name="help_translating_uri">https://crowdin.com/project/green-pass</string>
-    <string name="contributing_uri">https://github.com/michaeltroger/pdfwallet-android</string>
     <string name="privacy_policy_uri">https://pdfwallet.troger.app/privacy/</string>
     <string name="key_preference_biometric">shouldAuthenticate</string>
     <string name="key_preference_full_brightness">fullBrightness</string>
