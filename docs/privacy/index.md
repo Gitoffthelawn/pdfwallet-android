@@ -33,7 +33,3 @@ For more information about how Google processes your payment data, please refer 
 
 ### Ads & Tracking
 The app contains **no ads** and performs **no tracking or analytics**.
-  
-### Open Source
-The [source code of the app](https://github.com/michaeltroger/pdfwallet-android) is completely open source, allowing you to verify how it works.
-  
