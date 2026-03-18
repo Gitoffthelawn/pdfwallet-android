@@ -39,7 +39,3 @@ Para mais informações sobre como o Google processa os seus dados de pagamento,
 ### Publicidade e Rastreamento
 
 O aplicativo **não contém anúncios e não realiza rastreamento nem análises**.
-
-### Código Aberto
-
-O [código-fonte do aplicativo](https://github.com/michaeltroger/pdfwallet-android) é totalmente aberto, permitindo que você verifique como ele funciona.
