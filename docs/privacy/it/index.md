@@ -39,7 +39,3 @@ Per ulteriori informazioni su come Google elabora i tuoi dati di pagamento, cons
 ### Pubblicità e Tracciamento
 
 L’app **non contiene pubblicità** e **non esegue alcun tracciamento o analisi**.
-
-### Open Source
-
-Il [codice sorgente dell’app](https://github.com/michaeltroger/pdfwallet-android) è completamente open source, permettendoti di verificare come funziona.

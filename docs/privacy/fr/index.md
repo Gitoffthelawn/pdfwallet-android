@@ -39,7 +39,3 @@ Pour plus d’informations sur la manière dont Google traite vos données de pa
 ### Publicités et suivi
 
 L’application ne contient **aucune publicité** et n’effectue **aucun suivi ni analyse**.
-
-### Code source ouvert
-
-Le [code source de l’application](https://github.com/michaeltroger/pdfwallet-android) est entièrement open source, ce qui vous permet de vérifier son fonctionnement.

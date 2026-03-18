@@ -1,4 +1,4 @@
-Une application entièrement open source. Cette application est un portefeuille PDF simple à utiliser. Cela signifie qu’elle prend en charge la tâche de stocker et d’afficher vos certificats PDF les plus importants. Elle inclut un affichage plein écran pratique des codes-barres, si un code-barres est présent dans le PDF.
+Cette application est un portefeuille PDF simple à utiliser. Cela signifie qu’elle prend en charge la tâche de stocker et d’afficher vos certificats PDF les plus importants. Elle inclut un affichage plein écran pratique des codes-barres, si un code-barres est présent dans le PDF.
 
 Brève instruction
 - Ouvrez « PDF Wallet »
@@ -38,7 +38,7 @@ La version « Pro » apporte en plus (achat intégré requis) :
 - Possibilité d'afficher les codes-barres en demi-taille
 
 Confidentialité
-Cette application respecte votre vie privée : elle est entièrement open source et fonctionne hors ligne. Aucune publicité, aucun suivi.
+Cette application respecte votre vie privée : elle fonctionne entièrement hors ligne. Aucune publicité, aucun suivi.
 
 Problèmes / Support
 Il s’agit d’un projet personnel développé sur le temps libre d’un seul développeur. Merci donc de votre compréhension si les réponses peuvent prendre un certain temps.
