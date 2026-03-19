@@ -6,7 +6,7 @@ noindex: true
 
 # PDF Wallet : Politique de confidentialité
 
-**Dernière mise à jour** : octobre 2025
+**Dernière mise à jour** : mars 2026
 
 ## Contact
 
