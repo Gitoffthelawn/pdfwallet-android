@@ -6,7 +6,7 @@ noindex: true
 
 # PDF Wallet: Datenschutzrichtlinie
 
-**Zuletzt aktualisiert**: Oktober 2025
+**Zuletzt aktualisiert**: März 2026
 
 ## Kontakt
 
