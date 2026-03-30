@@ -8,16 +8,16 @@ hreflang: true
 
 ## [EN]({{ "/" | relative_url }}) | [DE]({{ "/de" | relative_url }}) | [ES]({{ "/es" | relative_url }}) | [FR]({{ "/fr" | relative_url }}) | [IT]({{ "/it" | relative_url }}) | [PT]({{ "/pt" | relative_url }})
 
-# PDF Wallet – Appli Android Open Source
+# PDF Wallet – Appli Android
 Votre gestionnaire de certificats PDF pour Android
 
-**PDF Wallet** est une application Android open source pour stocker, organiser et afficher vos PDF les plus importants. La plupart des fonctionnalités de base (comme la visualisation des PDF, l'affichage des codes-barres en plein écran et le tri de base) sont gratuites. Un achat intégré optionnel débloque toutes les fonctionnalités supplémentaires.
+**PDF Wallet** est une application Android pour stocker, organiser et afficher vos PDF les plus importants. La plupart des fonctionnalités de base (comme la visualisation des PDF, l'affichage des codes-barres en plein écran et le tri de base) sont gratuites. Un achat intégré optionnel débloque toutes les fonctionnalités supplémentaires.
 
 ## Télécharger pour Android
 <a href='https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible sur Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png'/></a>
 
 ## Fonctionnalités
-- **Open Source et Hors Ligne**: Respecte votre vie privée. Aucune publicité, aucun suivi.
+- **Respecte votre vie privée**: Fonctionne hors ligne, sans publicité ni suivi.
 - **Affichage Pratique**: Affichage plein écran des codes-barres pour un accès rapide.
 - **Support de nombreux codes-barres**:
   - 2D: QR, Aztec, DataMatrix, PDF417

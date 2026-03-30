@@ -8,16 +8,16 @@ hreflang: true
 
 ## [EN]({{ "/" | relative_url }}) | [DE]({{ "/de" | relative_url }}) | [ES]({{ "/es" | relative_url }}) | [FR]({{ "/fr" | relative_url }}) | [IT]({{ "/it" | relative_url }}) | [PT]({{ "/pt" | relative_url }})
 
-# PDF Wallet – Open Source Android App
+# PDF Wallet – Android App
 Your Android PDF certificate manager
 
-**PDF Wallet** is an open-source Android app for storing, organizing, and displaying your most important PDFs. Most core features—like viewing PDFs, fullscreen barcode display, and basic sorting—are free. An optional in-app purchase unlocks all additional functionality.
+**PDF Wallet** is an Android app for storing, organizing, and displaying your most important PDFs. Most core features—like viewing PDFs, fullscreen barcode display, and basic sorting—are free. An optional in-app purchase unlocks all additional functionality.
 
 ## Download for Android
 <a href='https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='100' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 ## Features
-- **Open Source & Offline**: Values your privacy. No ads, no tracking.
+- **Values your privacy**: Works offline, with no ads and no tracking.
 - **Convenient Display**: Fullscreen barcode rendering for quick access.
 - **Support for Many Barcodes**:
   - 2D: QR, Aztec, DataMatrix, PDF417
