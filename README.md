@@ -1,3 +1,23 @@
+> [!IMPORTANT]
+> This project is no longer maintained in its current form. The app has been replaced by **PDFWallet Vault** — a completely redesigned version developed from scratch.  
+> The new app is available not only for Android, but also for iOS and macOS.
+>
+> This legacy project is archived for reference purposes only.  
+> The last published legacy release is **v5.1.4**.  
+> Android version **6.0.0** and later belong to the new app.
+>
+> **New app:**  
+> [iOS / macOS](https://apps.apple.com/app/6767864357) · [Android](https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass)
+>
+> **Why is the original project no longer being extended?**  
+> The original app was initially developed in 2021. By 2026, it no longer met modern technical, architectural, and UI/UX standards.
+>
+> **How do I migrate to the new version?**  
+> If you installed the app from Google Play, you will receive the update automatically.  
+> If you installed the app from another source, you must manually export or back up your documents before installing the new version from Google Play.
+
+-----------------
+
 # PDF Wallet
 An Android App - previously known as Green Pass PDF Wallet.
 
